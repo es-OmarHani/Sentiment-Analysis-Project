@@ -10,6 +10,7 @@ Specifically, it covers:
 
 ## Project Structure
 - `datasets/`: Directory containing dataset files.
+- `docs/`: Directory containing detailed project documentation.
 - `helper_functions.py`: Python script containing helper functions for the project.
 - `models_logs/`: Directory to save TensorBoard log files.
 - `sentiment_analysis_deep_learning.ipynb`: Jupyter Notebook for deep learning-based sentiment analysis implementation.
